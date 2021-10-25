@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/react-gh-pages/static/js/app.df51d16b.chunk.js",
+    "app.js.map": "/react-gh-pages/static/js/app.df51d16b.chunk.js.map",
+    "runtime~app.js": "/react-gh-pages/static/js/runtime~app.ecabdfe7.js",
+    "runtime~app.js.map": "/react-gh-pages/static/js/runtime~app.ecabdfe7.js.map",
+    "static/js/2.4cb8aae4.chunk.js": "/react-gh-pages/static/js/2.4cb8aae4.chunk.js",
+    "static/js/2.4cb8aae4.chunk.js.map": "/react-gh-pages/static/js/2.4cb8aae4.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/react-gh-pages/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/react-gh-pages/favicon-16.png",
+    "favicon-32.png": "/react-gh-pages/favicon-32.png",
+    "favicon.ico": "/react-gh-pages/favicon.ico",
+    "index.html": "/react-gh-pages/index.html",
+    "manifest.json": "/react-gh-pages/manifest.json",
+    "serve.json": "/react-gh-pages/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ecabdfe7.js",
+    "static/js/2.4cb8aae4.chunk.js",
+    "static/js/app.df51d16b.chunk.js"
+  ]
+}
