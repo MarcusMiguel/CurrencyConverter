@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/react-gh-pages/static/js/app.df51d16b.chunk.js",
-    "app.js.map": "/react-gh-pages/static/js/app.df51d16b.chunk.js.map",
-    "runtime~app.js": "/react-gh-pages/static/js/runtime~app.ecabdfe7.js",
-    "runtime~app.js.map": "/react-gh-pages/static/js/runtime~app.ecabdfe7.js.map",
-    "static/js/2.4cb8aae4.chunk.js": "/react-gh-pages/static/js/2.4cb8aae4.chunk.js",
-    "static/js/2.4cb8aae4.chunk.js.map": "/react-gh-pages/static/js/2.4cb8aae4.chunk.js.map",
-    "fonts/MaterialCommunityIcons.ttf": "/react-gh-pages/./fonts/MaterialCommunityIcons.ttf",
-    "favicon-16.png": "/react-gh-pages/favicon-16.png",
-    "favicon-32.png": "/react-gh-pages/favicon-32.png",
-    "favicon.ico": "/react-gh-pages/favicon.ico",
-    "index.html": "/react-gh-pages/index.html",
-    "manifest.json": "/react-gh-pages/manifest.json",
-    "serve.json": "/react-gh-pages/serve.json"
+    "app.js": "/CurrencyConverter/static/js/app.ad965f44.chunk.js",
+    "app.js.map": "/CurrencyConverter/static/js/app.ad965f44.chunk.js.map",
+    "runtime~app.js": "/CurrencyConverter/static/js/runtime~app.956a060b.js",
+    "runtime~app.js.map": "/CurrencyConverter/static/js/runtime~app.956a060b.js.map",
+    "static/js/2.83d4b1e7.chunk.js": "/CurrencyConverter/static/js/2.83d4b1e7.chunk.js",
+    "static/js/2.83d4b1e7.chunk.js.map": "/CurrencyConverter/static/js/2.83d4b1e7.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/CurrencyConverter/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/CurrencyConverter/favicon-16.png",
+    "favicon-32.png": "/CurrencyConverter/favicon-32.png",
+    "favicon.ico": "/CurrencyConverter/favicon.ico",
+    "index.html": "/CurrencyConverter/index.html",
+    "manifest.json": "/CurrencyConverter/manifest.json",
+    "serve.json": "/CurrencyConverter/serve.json"
   },
   "entrypoints": [
-    "static/js/runtime~app.ecabdfe7.js",
-    "static/js/2.4cb8aae4.chunk.js",
-    "static/js/app.df51d16b.chunk.js"
+    "static/js/runtime~app.956a060b.js",
+    "static/js/2.83d4b1e7.chunk.js",
+    "static/js/app.ad965f44.chunk.js"
   ]
 }

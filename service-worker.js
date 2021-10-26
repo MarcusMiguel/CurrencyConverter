@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-gh-pages/precache-manifest.d6a84a2ac8166cd63695cc3f796d4368.js"
+  "/CurrencyConverter/precache-manifest.5542256da1f83fd7c673d46c3a196850.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("\\react-gh-pages\\index.html", {
+workbox.routing.registerNavigationRoute("\\CurrencyConverter\\index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

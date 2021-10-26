@@ -3,7 +3,7 @@
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
     navigator.serviceWorker
-      .register('/react-gh-pages/expo-service-worker.js', { scope: '/react-gh-pages/' })
+      .register('/CurrencyConverter/expo-service-worker.js', { scope: '/CurrencyConverter/' })
       .then(function (info) {
         // console.info('Registered service-worker', info);
       })
